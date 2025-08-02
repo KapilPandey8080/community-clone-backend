@@ -92,8 +92,8 @@ You can register a new account or use the following credentials to log in and te
 Email: test@test.com
 Password: 1234
 
-Email: test@test2.com
+Email: test2@test.com
 Password: 1234
 
-Email: test@test3.com
+Email: test3@test.com
 Password: 1234
